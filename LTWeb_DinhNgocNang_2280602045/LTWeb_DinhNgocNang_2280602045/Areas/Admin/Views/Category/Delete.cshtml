@@ -1,0 +1,11 @@
+﻿@model LTWeb_DinhNgocNang_2280602045.Models.Category
+
+<h2>Xóa danh mục</h2>
+
+<h4> Bạn có chắc muốn xóa danh mục "@Model.Name"?</h4>
+
+<form asp-action="Delete" asp-controller="Category" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+</form>
+

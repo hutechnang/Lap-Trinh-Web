@@ -1,0 +1,91 @@
+﻿@model List<LTWeb_DinhNgocNang_2280602045.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">@ViewData["Title"]</h2>
+
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (Model == null || !Model.Any())
+    {
+        <p class="text-center">Giỏ hàng của bạn đang trống.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Tên sản phẩm</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Tổng</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@(item.Name ?? "Không có tên")</td>
+                        <td>@(item.Price.ToString("N0") ?? "0") đ</td>
+                        <td>@(item.Quantity)</td>
+                        <td>@((item.Price * item.Quantity).ToString("N0")) đ</td>
+                        <td>
+                            <form asp-action="RemoveFromCart" asp-controller="ShoppingCart" method="post">
+                                <input type="hidden" name="productId" value="@item.ProductId" />
+                                <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3" class="text-end fw-bold">Tổng cộng:</td>
+                    <td>@(ViewBag.TotalPrice?.ToString("N0") ?? "0") đ</td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table>
+        <div class="text-end">
+            <a asp-action="Checkout" asp-controller="ShoppingCart" class="btn btn-primary">Thanh toán giỏ hàng</a>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('form').on('submit', function (e) {
+                e.preventDefault();
+                var form = $(this);
+                $.ajax({
+                    url: form.attr('action'),
+                    type: 'POST',
+                    data: form.serialize(),
+                    success: function (response) {
+                        if (response.success) {
+                            location.reload();
+                        } else {
+                            alert(response.message);
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        alert('Đã xảy ra lỗi.');
+                        console.error(error);
+                    }
+                });
+            });
+        });
+    </script>
+}

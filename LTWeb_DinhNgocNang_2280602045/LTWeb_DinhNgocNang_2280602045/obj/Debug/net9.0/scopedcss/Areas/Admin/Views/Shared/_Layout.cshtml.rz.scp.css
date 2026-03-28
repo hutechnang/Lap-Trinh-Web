@@ -1,0 +1,122 @@
+/* Navbar branding - Màu sắc tươi sáng */
+a.navbar-brand[b-fxcp4tnazq] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-word;
+    color: #2c3e50; /* Màu sắc tối, dễ nhìn */
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+    a.navbar-brand:hover[b-fxcp4tnazq] {
+        color: #3498db; /* Chuyển sang màu xanh sáng khi hover */
+        text-decoration: none;
+    }
+
+/* Thay đổi màu cho tất cả các liên kết */
+a[b-fxcp4tnazq] {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+    a:hover[b-fxcp4tnazq] {
+        color: #3498db; /* Màu sắc khi hover */
+    }
+
+/* Nút primary đẹp hơn với màu sắc nổi bật */
+.btn-primary[b-fxcp4tnazq] {
+    color: #fff;
+    background-color: #3498db; /* Màu xanh sáng */
+    border-color: #2980b9; /* Màu viền đậm hơn */
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+    .btn-primary:hover[b-fxcp4tnazq] {
+        background-color: #2980b9; /* Đổi màu khi hover */
+        border-color: #1d6d98; /* Viền đậm hơn khi hover */
+        cursor: pointer;
+    }
+
+/* Navbar pills - Tạo hiệu ứng đẹp khi active */
+.nav-pills .nav-link.active[b-fxcp4tnazq], .nav-pills .show > .nav-link[b-fxcp4tnazq] {
+    color: #fff;
+    background-color: #3498db; /* Màu nền khi active */
+    border-color: #2980b9; /* Màu viền khi active */
+    font-weight: bold;
+}
+
+.nav-pills .nav-link:hover[b-fxcp4tnazq] {
+    background-color: #2980b9; /* Màu khi hover */
+}
+
+/* Border styling cho các phần tử */
+.border-top[b-fxcp4tnazq] {
+    border-top: 2px solid #ecf0f1; /* Viền sáng */
+}
+
+.border-bottom[b-fxcp4tnazq] {
+    border-bottom: 2px solid #ecf0f1;
+}
+
+/* Box shadow giúp các phần tử nổi bật */
+.box-shadow[b-fxcp4tnazq] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+    .box-shadow:hover[b-fxcp4tnazq] {
+        box-shadow: 0 .25rem 1rem rgba(0, 0, 0, 0.2); /* Tăng độ đậm khi hover */
+    }
+
+/* Thêm padding cho button accept-policy để dễ sử dụng */
+button.accept-policy[b-fxcp4tnazq] {
+    font-size: 1rem;
+    line-height: inherit;
+    padding: 8px 20px;
+    background-color: #2c3e50; /* Màu tối cho nút */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    button.accept-policy:hover[b-fxcp4tnazq] {
+        background-color: #1a242f; /* Đổi màu khi hover */
+    }
+
+/* Footer đẹp và cố định ở dưới cùng nhưng không dính với đáy */
+.footer[b-fxcp4tnazq] {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #34495e; /* Màu tối cho footer */
+    border-top: 2px solid #ecf0f1;
+    color: #ecf0f1; /* Màu sáng để dễ nhìn */
+    line-height: 1.5;
+}
+
+    .footer p[b-fxcp4tnazq] {
+        margin: 0;
+    }
+
+    .footer span[b-fxcp4tnazq] {
+        font-weight: bold;
+        color: #3498db; /* Màu xanh sáng cho span */
+    }
+
+@media (max-width: 767px) {
+    /* Điều chỉnh khi màn hình nhỏ hơn */
+    .navbar-collapse[b-fxcp4tnazq] {
+        text-align: center;
+    }
+
+    .footer[b-fxcp4tnazq] {
+        font-size: 1rem; /* Font-size cho footer khi trên di động */
+    }
+}

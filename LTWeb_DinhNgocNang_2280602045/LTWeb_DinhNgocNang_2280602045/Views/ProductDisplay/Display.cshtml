@@ -1,0 +1,78 @@
+﻿@model LTWeb_DinhNgocNang_2280602045.Models.Product
+
+<div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
+    <!-- Cột trái: Hình ảnh -->
+    <div style="flex: 1;">
+        <h3>Ảnh sản phẩm:</h3>
+        @{
+            var allImages = new List<string>();
+            if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                allImages.Add(Model.ImageUrl);
+            }
+            if (Model.Images != null && Model.Images.Any())
+            {
+                allImages.AddRange(Model.Images.Select(img => img.Url));
+            }
+        }
+
+        <img id="mainImage" src="@allImages.FirstOrDefault()" alt="Product Image" style="max-width: 100%; border: 1px solid #ccc; padding: 5px;" />
+
+        @if (allImages.Count > 1)
+        {
+            <h4 style="margin-top: 15px;">Hình ảnh bổ sung:</h4>
+            <div style="display: flex; align-items: center;">
+                <button onclick="scrollImages(-1)">←</button>
+                <div id="supplementImages" style="display: flex; overflow-x: hidden; width: 300px;">
+                    @foreach (var imgUrl in allImages)
+                    {
+                        <img src="@imgUrl" class="thumbnail" style="max-width: 100px; margin: 0 5px; cursor: pointer;" onclick="setMainImage(this.src)" />
+                    }
+                </div>
+                <button onclick="scrollImages(1)">→</button>
+            </div>
+        }
+        else
+        {
+            <p>Không có hình ảnh bổ sung.</p>
+        }
+    </div>
+
+    <!-- Cột phải: Thông tin sản phẩm -->
+    <div style="flex: 1;">
+        <h2 style="font-size: 28px; color: #2c3e50;">@Model.Name</h2>
+        <p><strong>Giá:</strong> <span style="color: #e74c3c;">@Model.Price.ToString("N0") đ</span></p>
+        <p><strong>Mô tả:</strong> @Model.Description</p>
+        <p><strong>Loại:</strong> @(Model.Category?.Name ?? "Không có")</p>
+
+        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+        {
+            <a href="@Url.Action("Update", "Product", new { id = Model.Id })" class="btn btn-primary" style="margin-top: 10px;">Chỉnh sửa</a>
+        }
+        <a href="@Url.Action("Index", "ProductDisplay")" class="btn btn-secondary" style="margin-top: 10px;">Quay lại Danh sách</a>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const images = Array.from(document.querySelectorAll('.thumbnail')).map(img => img.src);
+        let index = 0;
+
+        function setMainImage(src) {
+            document.getElementById('mainImage').src = src;
+            index = images.indexOf(src);
+        }
+
+        function scrollImages(direction) {
+            const container = document.getElementById('supplementImages');
+            container.scrollBy({ left: direction * 120, behavior: 'smooth' });
+        }
+
+        setInterval(() => {
+            if (images.length > 1) {
+                index = (index + 1) % images.length;
+                setMainImage(images[index]);
+            }
+        }, 5000);
+    </script>
+}

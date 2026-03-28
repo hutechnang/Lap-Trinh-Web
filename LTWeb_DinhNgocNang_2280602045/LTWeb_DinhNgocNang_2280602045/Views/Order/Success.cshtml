@@ -1,0 +1,12 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Thanh toán thành công";
+}
+<div class="container py-4">
+    <h2>@ViewData["Title"]</h2>
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success">@TempData["Message"]</div>
+    }
+    <a asp-controller="ProductDisplay" asp-action="Index" class="btn btn-primary">Tiếp tục mua sắm</a>
+</div>

@@ -1,0 +1,4 @@
+﻿@{
+    var skipLayout = Context.Request.Path.StartsWithSegments("/swagger");
+    Layout = skipLayout ? null : "_Layout";
+}

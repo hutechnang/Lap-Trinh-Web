@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+<p><a class="btn btn-success" href="/Admin/ProductApi/Create">Thêm mới</a></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Danh mục</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody id="productTable"></tbody>
+</table>
+
+@section Scripts {
+    <script>
+        fetch('https://localhost:7181/api/products')
+            .then(res => res.json())
+            .then(data => {
+                let rows = '';
+        data.forEach(p => {
+            rows += `<tr>
+                <td>${p.id}</td>
+                <td>${p.name}</td>
+                <td>${p.price}</td>
+                <td>${p.categoryName || 'Chưa rõ'}</td>
+                <td>
+                    <a href="/Admin/ProductApi/Details/${p.id}" class="btn btn-info btn-sm">Chi tiết</a>
+                    <a href="/Admin/ProductApi/Edit/${p.id}" class="btn btn-warning btn-sm">Sửa</a>
+                    <a href="/Admin/ProductApi/Delete/${p.id}" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>`;
+        });
+                document.getElementById('productTable').innerHTML = rows;
+            });
+    </script>
+}

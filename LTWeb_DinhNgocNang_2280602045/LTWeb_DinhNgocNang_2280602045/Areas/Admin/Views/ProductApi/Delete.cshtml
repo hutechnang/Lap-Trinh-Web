@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Xóa sản phẩm";
+    var id = Context.Request.RouteValues["id"];
+}
+
+<h2>Bạn có chắc chắn muốn xóa sản phẩm?</h2>
+<div id="productName"></div>
+<form id="deleteForm">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="/Admin/ProductApi/Index" class="btn btn-secondary">Hủy</a>
+</form>
+
+@section Scripts {
+    <script>
+        fetch(`https://localhost:7181/api/products/${@id}`)
+            .then(res => res.json())
+            .then(p => {
+                document.getElementById('productName').textContent = p.name;
+            });
+
+        document.getElementById('deleteForm').addEventListener('submit', async e => {
+            e.preventDefault();
+            await fetch(`https://localhost:7181/api/products/${@id}`, { method: 'DELETE' });
+            window.location.href = '/Admin/ProductApi/Index';
+        });
+    </script>
+}

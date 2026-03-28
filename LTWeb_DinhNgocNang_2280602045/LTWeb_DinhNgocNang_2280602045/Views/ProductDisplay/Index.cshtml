@@ -1,0 +1,147 @@
+﻿@model IEnumerable<LTWeb_DinhNgocNang_2280602045.Models.Product>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var searchString = ViewData["searchString"] as string;
+    var sortOrder = ViewData["sortOrder"] as string;
+}
+
+<div class="container mt-5 position-relative">
+    <!-- Tiêu đề được đặt dưới hàng menu và trên Danh sách sản phẩm -->
+    <h2 class="text-primary text-center mb-4" style="margin-top: -50px;">@ViewData["Title"]</h2>
+
+    <!-- Hiển thị thông báo -->
+    <div class="toast-container position-fixed top-0 start-50 translate-middle-x p-3" style="z-index: 1050;">
+        <div id="addToCartToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="toast-header">
+                <strong class="me-auto">Thông báo</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+            <div class="toast-body" id="toastMessage"></div>
+        </div>
+    </div>
+
+    <!-- Tìm kiếm -->
+    <form method="get" class="row row-cols-lg-auto g-3 align-items-center mb-4 bg-light p-3 rounded shadow-sm">
+        <div class="col-auto">
+            <label for="searchString" class="col-form-label fw-semibold">Tìm sản phẩm:</label>
+        </div>
+        <div class="col-auto">
+            <input type="text" id="searchString" name="searchString" class="form-control" value="@searchString" placeholder="Tên sản phẩm..." />
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i> Tìm</button>
+        </div>
+    </form>
+
+    <!-- Sắp xếp -->
+    <div class="mb-4 text-center">
+        <span class="fw-semibold me-2">Sắp xếp:</span>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="name_asc" class="btn btn-outline-primary btn-sm">Tên A-Z</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="name_desc" class="btn btn-outline-primary btn-sm">Tên Z-A</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="price_asc" class="btn btn-outline-success btn-sm">Giá Tăng</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="price_desc" class="btn btn-outline-success btn-sm">Giá Giảm</a>
+    </div>
+
+    <style>
+        .product-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            transition: box-shadow 0.3s;
+        }
+
+            .product-card:hover {
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            }
+
+        .product-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .product-info {
+            padding: 10px;
+        }
+
+        .product-name {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #333;
+            height: 45px;
+            overflow: hidden;
+        }
+
+        .product-price {
+            color: #e53935;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+    </style>
+
+    <!-- Danh sách sản phẩm -->
+    <div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
+        @foreach (var product in Model)
+        {
+            <div class="col">
+                <div class="product-card h-100">
+                    <a asp-action="Display" asp-route-id="@product.Id">
+                        <img src="@product.ImageUrl" alt="Ảnh sản phẩm" class="product-img" />
+                    </a>
+                    <div class="product-info">
+                        <a asp-action="Display" asp-route-id="@product.Id" class="text-decoration-none text-dark">
+                            <div class="product-name">@product.Name</div>
+                        </a>
+                        <div class="product-price">@product.Price.ToString("N0") đ</div>
+                        <div class="mt-2">
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <button type="button" class="btn btn-success btn-sm me-2 add-to-cart" data-product-id="@product.Id" data-product-name="@product.Name">Thêm vào giỏ hàng</button>
+                                <a asp-controller="ProductDisplay" asp-action="BuyNow" asp-route-id="@product.Id" class="btn btn-primary btn-sm">Mua hàng</a>
+                            }
+                            else
+                            {
+                                <p class="text-muted">Vui lòng <a asp-area="Identity" asp-page="/Account/Login">đăng nhập</a> để mua hàng.</p>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.add-to-cart').on('click', function () {
+                var productId = $(this).data('product-id');
+                var productName = $(this).data('product-name');
+
+                $.ajax({
+                    url: '/ShoppingCart/AddToCart',
+                    type: 'POST',
+                    data: { productId: productId, quantity: 1 },
+                    success: function (response) {
+                        if (response.success) {
+                            var toast = new bootstrap.Toast($('#addToCartToast'));
+                            $('#toastMessage').text(`Đã thêm "${productName}" vào giỏ`);
+                            toast.show();
+                        } else {
+                            alert(response.message);
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        alert('Đã xảy ra lỗi khi thêm vào giỏ hàng.');
+                        console.error(error);
+                    }
+                });
+            });
+        });
+    </script>
+}

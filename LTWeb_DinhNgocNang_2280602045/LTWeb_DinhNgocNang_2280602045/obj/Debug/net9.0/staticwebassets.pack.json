@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\LTWeb_DinhNgocNang_2280602045.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LTWeb_DinhNgocNang_2280602045.lc9xhg2wn8.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\0539bce6-21fe-4e10-a9f8-d3d7573464f8.jpg",
+      "PackagePath": "staticwebassets\\Images\\0539bce6-21fe-4e10-a9f8-d3d7573464f8.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\0bdd272a-5dae-4195-bdc1-59956d760612.jpeg",
+      "PackagePath": "staticwebassets\\Images\\0bdd272a-5dae-4195-bdc1-59956d760612.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\1041990a-51a8-4c2c-9eec-c274bc0e8a1d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1041990a-51a8-4c2c-9eec-c274bc0e8a1d.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\13f05c4c-ebf7-45cb-bd10-065cf258c03c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\13f05c4c-ebf7-45cb-bd10-065cf258c03c.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\14236164-ba9b-4671-affd-8990b95e80c4.jpg",
+      "PackagePath": "staticwebassets\\Images\\14236164-ba9b-4671-affd-8990b95e80c4.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\1442205209_19939_dell_xps13__1_.jpg",
+      "PackagePath": "staticwebassets\\Images\\1442205209_19939_dell_xps13__1_.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\2c56576b-765b-41ac-a464-2a07ee6a3943.png",
+      "PackagePath": "staticwebassets\\Images\\2c56576b-765b-41ac-a464-2a07ee6a3943.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\30f3827f-76e3-4099-ac2b-f6b0107dabf7.jpg",
+      "PackagePath": "staticwebassets\\Images\\30f3827f-76e3-4099-ac2b-f6b0107dabf7.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\3516eabe-7e29-4ee1-b996-ded581c5e06b.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3516eabe-7e29-4ee1-b996-ded581c5e06b.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\3713e999-7ddb-4b8d-8362-33c6c675db13.jpg",
+      "PackagePath": "staticwebassets\\Images\\3713e999-7ddb-4b8d-8362-33c6c675db13.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\37adadf7-e8f3-4fa9-8053-063c3a7985be.jpg",
+      "PackagePath": "staticwebassets\\Images\\37adadf7-e8f3-4fa9-8053-063c3a7985be.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\40a6e59c-7555-40b2-8ad2-c4454f0f5dc7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\40a6e59c-7555-40b2-8ad2-c4454f0f5dc7.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\4513d19711e5c31b38458483f062fc5f.webp",
+      "PackagePath": "staticwebassets\\Images\\4513d19711e5c31b38458483f062fc5f.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\45e3c516-8e86-4610-8d1e-9b7101375b66.jpg",
+      "PackagePath": "staticwebassets\\Images\\45e3c516-8e86-4610-8d1e-9b7101375b66.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\4956e9ef-0721-48ef-82ca-449bca3a51a8.jpg",
+      "PackagePath": "staticwebassets\\Images\\4956e9ef-0721-48ef-82ca-449bca3a51a8.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\4c4a7235-e621-4535-b224-390e97b40281.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c4a7235-e621-4535-b224-390e97b40281.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\4d61f17f-af16-432c-9428-74d689404b1a.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4d61f17f-af16-432c-9428-74d689404b1a.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\50d89498-5071-4f19-8e40-e6fdeab933fa.jpeg",
+      "PackagePath": "staticwebassets\\Images\\50d89498-5071-4f19-8e40-e6fdeab933fa.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\52a260dc-dc5b-4174-847a-0be6e61a35aa.jpeg",
+      "PackagePath": "staticwebassets\\Images\\52a260dc-dc5b-4174-847a-0be6e61a35aa.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\5742b125-f0f0-4770-862e-4c62080872be.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5742b125-f0f0-4770-862e-4c62080872be.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\58783ef9-3fd8-44f7-a674-f41d957e3ebb.jpg",
+      "PackagePath": "staticwebassets\\Images\\58783ef9-3fd8-44f7-a674-f41d957e3ebb.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\59596bc8-4e62-44ce-a63d-ba19386ca4a8.png",
+      "PackagePath": "staticwebassets\\Images\\59596bc8-4e62-44ce-a63d-ba19386ca4a8.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\5b04d39c-a902-4af4-85a1-da39fb6ad0b4.jpg",
+      "PackagePath": "staticwebassets\\Images\\5b04d39c-a902-4af4-85a1-da39fb6ad0b4.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\5b68ed42-d7e2-42fb-8ba8-3e80beeec401.png",
+      "PackagePath": "staticwebassets\\Images\\5b68ed42-d7e2-42fb-8ba8-3e80beeec401.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\69e01942-208a-41e2-ad51-5e35c64dfe77.jpeg",
+      "PackagePath": "staticwebassets\\Images\\69e01942-208a-41e2-ad51-5e35c64dfe77.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\701d85e0-6e11-466f-acdc-95fe41efa848.jpeg",
+      "PackagePath": "staticwebassets\\Images\\701d85e0-6e11-466f-acdc-95fe41efa848.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\706a945c-2833-4b1e-82f5-964f0b539a12.jpg",
+      "PackagePath": "staticwebassets\\Images\\706a945c-2833-4b1e-82f5-964f0b539a12.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\708a03b6-cb99-47e8-92a2-49faa576688d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\708a03b6-cb99-47e8-92a2-49faa576688d.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\71af60d1-c06d-489f-9b2d-3ec8e6392bf3.jpg",
+      "PackagePath": "staticwebassets\\Images\\71af60d1-c06d-489f-9b2d-3ec8e6392bf3.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\72aa155e-6ba1-46db-ae54-db8df6961b31.jpg",
+      "PackagePath": "staticwebassets\\Images\\72aa155e-6ba1-46db-ae54-db8df6961b31.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\79274842-4130-4cf5-a51b-b54b498581d8.jpeg",
+      "PackagePath": "staticwebassets\\Images\\79274842-4130-4cf5-a51b-b54b498581d8.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\7def5dd8-d518-472d-8d2f-0ddc965e2188.jpg",
+      "PackagePath": "staticwebassets\\Images\\7def5dd8-d518-472d-8d2f-0ddc965e2188.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\82030a51-1758-4af7-87f8-3773073c2575.jpg",
+      "PackagePath": "staticwebassets\\Images\\82030a51-1758-4af7-87f8-3773073c2575.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\8ad17f70-78b9-4162-8b5a-803b0b803cf6.jpg",
+      "PackagePath": "staticwebassets\\Images\\8ad17f70-78b9-4162-8b5a-803b0b803cf6.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\8aeef7d8-72f5-488a-b47f-85f71b5d9b04.jpg",
+      "PackagePath": "staticwebassets\\Images\\8aeef7d8-72f5-488a-b47f-85f71b5d9b04.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\9388c2f6-ad31-4919-ba6b-96633ada9bdb.jpg",
+      "PackagePath": "staticwebassets\\Images\\9388c2f6-ad31-4919-ba6b-96633ada9bdb.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\9b90354a-09b4-41b3-8e67-fd1a6d0f17e7.jpg",
+      "PackagePath": "staticwebassets\\Images\\9b90354a-09b4-41b3-8e67-fd1a6d0f17e7.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\Ban-Laptop-9560-dell-xps-15-gia-si-sieu-re-Uy-Tin-tphcm-Sinh-Vien-Van-Phong-Doanh-Nhan-Game-Do-Hoa-Core-i3-i5-i7-Ram-4Gb-8Gb-SSD-128Gb-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ban-Laptop-9560-dell-xps-15-gia-si-sieu-re-Uy-Tin-tphcm-Sinh-Vien-Van-Phong-Doanh-Nhan-Game-Do-Hoa-Core-i3-i5-i7-Ram-4Gb-8Gb-SSD-128Gb-2.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\Không có tiêu đề.png",
+      "PackagePath": "staticwebassets\\Images\\Không có tiêu đề.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\ad06417b-f905-4f06-a820-3b9a859052c6.jpg",
+      "PackagePath": "staticwebassets\\Images\\ad06417b-f905-4f06-a820-3b9a859052c6.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\b4caaebc-362d-4391-9cd4-558e226894d7.jpg",
+      "PackagePath": "staticwebassets\\Images\\b4caaebc-362d-4391-9cd4-558e226894d7.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\b5086b6a-44cd-454a-80a2-c3c2505ddab4 - Sao chép.jpg",
+      "PackagePath": "staticwebassets\\Images\\b5086b6a-44cd-454a-80a2-c3c2505ddab4 - Sao chép.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\b79ed8b7-e7d6-4e2b-8ca8-05b661970db0.jpg",
+      "PackagePath": "staticwebassets\\Images\\b79ed8b7-e7d6-4e2b-8ca8-05b661970db0.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book1.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book1.jpg",
+      "PackagePath": "staticwebassets\\Images\\book1.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book10.jpg",
+      "PackagePath": "staticwebassets\\Images\\book10.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book2.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book2.jpg",
+      "PackagePath": "staticwebassets\\Images\\book2.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book3.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book3.jpg",
+      "PackagePath": "staticwebassets\\Images\\book3.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book4.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book4.jpg",
+      "PackagePath": "staticwebassets\\Images\\book4.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book5.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book6.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book6.jpg",
+      "PackagePath": "staticwebassets\\Images\\book6.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\book7.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book7.jpg",
+      "PackagePath": "staticwebassets\\Images\\book7.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book8.jpg",
+      "PackagePath": "staticwebassets\\Images\\book8.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\book9.png",
+      "PackagePath": "staticwebassets\\Images\\book9.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\c0754ee0-581b-4fdb-8be3-5871a77f0f82.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c0754ee0-581b-4fdb-8be3-5871a77f0f82.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\c2b59b6c-5b56-45bd-a1f5-85478b98f632.jpg",
+      "PackagePath": "staticwebassets\\Images\\c2b59b6c-5b56-45bd-a1f5-85478b98f632.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\c5aefc6c-a35a-472c-beec-19b2bbac3684.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c5aefc6c-a35a-472c-beec-19b2bbac3684.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\c84b4fe6-be33-4abe-800c-a270ecaabb96.jpg",
+      "PackagePath": "staticwebassets\\Images\\c84b4fe6-be33-4abe-800c-a270ecaabb96.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\c9b56222-a088-40fd-8fd8-f61dd8a6b69e.jpg",
+      "PackagePath": "staticwebassets\\Images\\c9b56222-a088-40fd-8fd8-f61dd8a6b69e.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\cd8573d6-2c6a-4f1e-8a07-49ac6f4412e7.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd8573d6-2c6a-4f1e-8a07-49ac6f4412e7.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\cffce2d2-c805-4322-a8e6-d8e34957a6f1.jpg",
+      "PackagePath": "staticwebassets\\Images\\cffce2d2-c805-4322-a8e6-d8e34957a6f1.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\d299afac-31aa-48fe-a848-059c2cef13cd.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d299afac-31aa-48fe-a848-059c2cef13cd.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\d4430bf0-5bb3-4d0a-a3b1-35d9d66030ec.jpg",
+      "PackagePath": "staticwebassets\\Images\\d4430bf0-5bb3-4d0a-a3b1-35d9d66030ec.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\d46713ce-87fd-4848-9792-0a5a8259eb72.jpg",
+      "PackagePath": "staticwebassets\\Images\\d46713ce-87fd-4848-9792-0a5a8259eb72.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\dbe01b4d-c05f-40be-b178-7cec02f0687d.jpg",
+      "PackagePath": "staticwebassets\\Images\\dbe01b4d-c05f-40be-b178-7cec02f0687d.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\dell-latitude-3520-i7-70261780-091221-022033-600x600.jpg",
+      "PackagePath": "staticwebassets\\Images\\dell-latitude-3520-i7-70261780-091221-022033-600x600.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e1fb4a86-ae4c-479b-9f5c-1fc4aca6257a.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e1fb4a86-ae4c-479b-9f5c-1fc4aca6257a.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e2841756-e1f9-45ea-9d64-ed9faf8f416a.jpg",
+      "PackagePath": "staticwebassets\\Images\\e2841756-e1f9-45ea-9d64-ed9faf8f416a.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e6a3776f-c510-4087-9233-cce8e9767baa.png",
+      "PackagePath": "staticwebassets\\Images\\e6a3776f-c510-4087-9233-cce8e9767baa.png"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e8f00b69-300d-45b7-87dc-936d673e9b8f.jpg",
+      "PackagePath": "staticwebassets\\Images\\e8f00b69-300d-45b7-87dc-936d673e9b8f.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e912fbec-809f-4b19-9629-b6dab0b4281e.jpg",
+      "PackagePath": "staticwebassets\\Images\\e912fbec-809f-4b19-9629-b6dab0b4281e.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\e97891be-ea55-46cc-b1ab-29eeb27d7718.jpg",
+      "PackagePath": "staticwebassets\\Images\\e97891be-ea55-46cc-b1ab-29eeb27d7718.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\edd5840f-4d2a-46f2-afdd-456f75b8a403.jpeg",
+      "PackagePath": "staticwebassets\\Images\\edd5840f-4d2a-46f2-afdd-456f75b8a403.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\f2d01eff-240b-4fba-8efc-0c436b499405.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f2d01eff-240b-4fba-8efc-0c436b499405.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\f78c7658-b7ad-4772-9bf4-801db85ea8f0.webp",
+      "PackagePath": "staticwebassets\\Images\\f78c7658-b7ad-4772-9bf4-801db85ea8f0.webp"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\f90cf348-117b-4358-9e3d-b5fe5587d029.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f90cf348-117b-4358-9e3d-b5fe5587d029.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\faaf564f-5c33-487b-b661-1ddc501c3128.jpeg",
+      "PackagePath": "staticwebassets\\Images\\faaf564f-5c33-487b-b661-1ddc501c3128.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\fbbb9e68-0a43-44c0-8bcc-5faa8fae319d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fbbb9e68-0a43-44c0-8bcc-5faa8fae319d.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\fbc55780-ec69-480c-bf0e-03f7da78b2e0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fbc55780-ec69-480c-bf0e-03f7da78b2e0.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\fcc860a7-0590-45b7-af83-20c98168c851.jpg",
+      "PackagePath": "staticwebassets\\Images\\fcc860a7-0590-45b7-af83-20c98168c851.jpg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\images (1).jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\images.jpeg",
+      "PackagePath": "staticwebassets\\Images\\images.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\Images\\tải xuống.jpeg",
+      "PackagePath": "staticwebassets\\Images\\tải xuống.jpeg"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Downloads\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LTWeb_DinhNgocNang_2280602045.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LTWeb_DinhNgocNang_2280602045.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.LTWeb_DinhNgocNang_2280602045.props",
+      "PackagePath": "build\\LTWeb_DinhNgocNang_2280602045.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.LTWeb_DinhNgocNang_2280602045.props",
+      "PackagePath": "buildMultiTargeting\\LTWeb_DinhNgocNang_2280602045.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.LTWeb_DinhNgocNang_2280602045.props",
+      "PackagePath": "buildTransitive\\LTWeb_DinhNgocNang_2280602045.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

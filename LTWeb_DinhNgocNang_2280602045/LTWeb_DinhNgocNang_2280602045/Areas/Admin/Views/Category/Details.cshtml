@@ -1,0 +1,25 @@
+﻿@model LTWeb_DinhNgocNang_2280602045.Models.Category
+
+<h2>Chi tiết danh mục</h2>
+
+<div>
+    <h4>Tên danh mục:</h4>
+    <p>@Model.Name</p>
+
+    <h4>Sản phẩm thuộc danh mục:</h4>
+    <ul>
+        @if (Model.Products != null && Model.Products.Any())
+        {
+            foreach (var product in Model.Products)
+            {
+                <li>@product.Name - @product.Price.ToString("N0")đ</li>
+            }
+        }
+        else
+        {
+            <li>Không có sản phẩm nào.</li>
+        }
+    </ul>
+
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>

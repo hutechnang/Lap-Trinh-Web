@@ -1,0 +1,1024 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\controllers\\categorydisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\controllers\\categorydisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\controllers\\productdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\controllers\\productdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\productdisplay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\productdisplay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\productdisplay\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\productdisplay\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250528032443_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250528032443_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\user\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\user\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\viewmodels\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\viewmodels\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\categorydisplay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\categorydisplay\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\views\\productdisplay\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\views\\productdisplay\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\verifyotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\verifyotp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\verifyotp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250514015022_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250514015022_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250514030216_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250514030216_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250513142850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250513142850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250513144137_updatecategoryproductrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250513144137_updatecategoryproductrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|c:\\users\\dinhn\\source\\repos\\ltweb_dinhngocnang_2280602045\\ltweb_dinhngocnang_2280602045\\migrations\\20250526130319_addproductimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED738D64-B103-4343-92B1-F426D2FD39FF}|LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj|solutionrelative:ltweb_dinhngocnang_2280602045\\migrations\\20250526130319_addproductimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T12:54:00.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:09:04.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T14:17:12.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:09:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:45:32.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:17:20.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:28:42.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\ProductDisplayController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Controllers\\ProductDisplayController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\ProductDisplayController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Controllers\\ProductDisplayController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:46:39.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-27T16:08:08.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDisplayController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\CategoryDisplayController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Controllers\\CategoryDisplayController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\CategoryDisplayController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Controllers\\CategoryDisplayController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:54:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\Product.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:41:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAGgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:26:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAqwN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:00:18.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:46:43.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:17:37.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Display.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Display.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Display.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Display.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:44:32.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:17:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwGkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:19:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Controllers\\CartController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:13:55.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\SD.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:25:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:54:40.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:36:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Program.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Program.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Program.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2gAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:18:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250528032443_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250528032443_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250528032443_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250528032443_CreateIdentitySchema.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250528032443_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:24:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\User\\CreateEmployee.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\User\\CreateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\User\\CreateEmployee.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\User\\CreateEmployee.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:43:07.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ViewModels\\CreateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\ViewModels\\CreateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ViewModels\\CreateEmployeeViewModel.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\ViewModels\\CreateEmployeeViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:45:42.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\CategoryDisplay\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\CategoryDisplay\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\CategoryDisplay\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\CategoryDisplay\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:02:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:14:48.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T14:02:54.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T02:16:16.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LTWeb_DinhNgocNang_2280602045.csproj",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T01:52:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Utilities\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Utilities\\SessionExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:20:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Checkout.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Views\\ProductDisplay\\Checkout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T01:44:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:00.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\Category.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:40:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:17:06.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T16:17:01.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv18AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T13:31:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:18.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:49:37.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:00:17.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:32.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvx8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T11:03:52.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:22:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ProductImage.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:54:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:22:06.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VerifyOtp.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:11:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250526130319_AddProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250526130319_AddProductImages.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250526130319_AddProductImages.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250526130319_AddProductImages.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250526130319_AddProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:03:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\appsettings.json",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\appsettings.json",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\appsettings.json",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T13:44:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Services\\SmsService.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Services\\SmsService.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Services\\SmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:05:17.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "VerifyOtp.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\VerifyOtp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:15:05.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250514015022_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514015022_AddIdentity.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514015022_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514015022_AddIdentity.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514015022_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:50:23.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T13:56:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:04:26.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:27:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250514030216_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514030216_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514030216_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514030216_ExtendIdentityUser.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250514030216_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:02:16.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-14T01:58:22.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250513144137_UpdateCategoryProductRelation.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513144137_UpdateCategoryProductRelation.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513144137_UpdateCategoryProductRelation.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513144137_UpdateCategoryProductRelation.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513144137_UpdateCategoryProductRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:41:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250513142850_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513142850_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513142850_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513142850_InitialCreate.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Migrations\\20250513142850_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:28:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:27:16.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\appsettings.Development.json",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T13:44:32.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LTWeb_DinhNgocNang_2280602045\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dinhn\\source\\repos\\LTWeb_DinhNgocNang_2280602045\\LTWeb_DinhNgocNang_2280602045\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LTWeb_DinhNgocNang_2280602045\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T13:23:19.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

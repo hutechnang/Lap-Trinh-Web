@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Thêm sản phẩm";
+}
+
+<h2>Thêm sản phẩm</h2>
+
+<form id="createForm">
+    <input class="form-control mb-2" name="name" placeholder="Tên sản phẩm" required />
+    <input class="form-control mb-2" name="price" placeholder="Giá" type="number" required />
+    <textarea class="form-control mb-2" name="description" placeholder="Mô tả"></textarea>
+    <input class="form-control mb-2" name="imageUrl" placeholder="URL hình ảnh" />
+    <input class="form-control mb-2" name="categoryId" placeholder="ID danh mục" type="number" required />
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a href="https://localhost:7181/Admin/ProductApi" class="btn btn-secondary ms-2">Quay lại</a>
+</form>
+
+@section Scripts {
+    <script>
+        document.getElementById('createForm').addEventListener('submit', async e => {
+            e.preventDefault();
+            const form = new FormData(e.target);
+            const data = Object.fromEntries(form.entries());
+
+            data.price = parseFloat(data.price);
+            data.categoryId = parseInt(data.categoryId);
+
+            const response = await fetch('https://localhost:7181/api/products', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+
+            if (response.ok) {
+                window.location.href = '/Admin/ProductApi/Index';
+            } else {
+                alert("Thêm sản phẩm thất bại!");
+            }
+        });
+    </script>
+}

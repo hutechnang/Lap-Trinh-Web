@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using LTWeb_DinhNgocNang_2280602045.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+        </li>
+
+        @* Chỉ hiển thị liên kết điều hướng cho Customer hoặc Company *@
+        @if (User.IsInRole("Customer") || User.IsInRole("Company"))
+        {
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ShoppingCart" asp-action="Index">Giỏ hàng</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="ProductDisplay" asp-action="Index">Sản phẩm</a>
+            </li>
+        }
+
+        <li class="nav-item">
+            <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "ProductDisplay", new { area = "" })">
+                <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Đăng xuất</button>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="register" asp-area="Identity" asp-page="/Account/Register">Đăng ký</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login">Đăng nhập</a>
+        </li>
+    }
+</ul>

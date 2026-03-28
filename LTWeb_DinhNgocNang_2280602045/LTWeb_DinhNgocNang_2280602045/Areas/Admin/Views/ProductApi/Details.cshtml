@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    var id = Context.Request.RouteValues["id"];
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div id="productDetail"></div>
+<a href="https://localhost:7181/Admin/ProductApi" class="btn btn-secondary mt-3">Quay lại</a>
+@section Scripts {
+    <script>
+        fetch(`https://localhost:7181/api/products/${@id}`)
+            .then(res => res.json())
+            .then(p => {
+                document.getElementById('productDetail').innerHTML = `
+                    <p><strong>ID:</strong> ${p.id}</p>
+                    <p><strong>Tên:</strong> ${p.name}</p>
+                    <p><strong>Giá:</strong> ${p.price}</p>
+                    <p><strong>Mô tả:</strong> ${p.description}</p>
+                    <p><strong>Danh mục:</strong> ${p.categoryName || 'Chưa rõ'}</p>
+                    <img src="${p.imageUrl}" style="max-width:200px"/>
+                `;
+            });
+    </script>
+}

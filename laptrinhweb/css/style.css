@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #d0d8f4;
+    color: #3852b7;
+    text-align: center;
+    padding: 30px;
+}
+
+.header img {
+    width: 55%;
+    height: 180px;
+}
+
+/* Thanh điều hướng - Navigation Bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Link điều hướng */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Thay đổi màu liên kết khi di chuột qua */
+.topnav a:hover {
+    background-color: #d0d093;
+    color: white;
+    font-weight: bold;
+}
+
+/* Tạo 3 cột bằng nhau, float cạnh nhau */
+.column {
+    float: left;
+    width: 28.3%;
+    padding: 15px;
+}
+
+/* Clear float khác sau các cột */
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Để cục linh hoạt: ba cột xếp chồng lên nhau khi màn hình nhỏ hơn 600px */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+/* Định dạng footer */
+.footer {
+    background-color: #d0d8f4;
+    color: #3852b7;
+    padding: 10px;
+    text-align: right;
+}

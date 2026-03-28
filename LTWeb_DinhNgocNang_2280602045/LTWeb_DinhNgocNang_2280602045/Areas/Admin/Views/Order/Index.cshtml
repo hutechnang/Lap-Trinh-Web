@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LTWeb_DinhNgocNang_2280602045.Models.Order>
+
+@{
+    ViewData["Title"] = "Tất cả đơn hàng của người dùng";
+    var sortOrder = ViewBag.SortOrder as string ?? "date_desc"; // Mặc định giảm dần
+}
+
+<div class="container mt-5">
+    <h3 class="text-center text-success mb-4">@ViewData["Title"]</h3>
+
+    @if (!Model.Any())
+    {
+        <p class="text-center">Chưa có đơn hàng nào.</p>
+    }
+    else
+    {
+        <!-- Khu vực sắp xếp -->
+        <div class="mb-4 text-center">
+            <span class="fw-semibold me-2">Sắp xếp:</span>
+            <a asp-action="Index" asp-route-sortOrder="date_asc" class="btn btn-outline-primary btn-sm">Thời gian Tăng</a>
+            <a asp-action="Index" asp-route-sortOrder="date_desc" class="btn btn-outline-primary btn-sm">Thời gian Giảm</a>
+        </div>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Mã đơn</th>
+                    <th>Người đặt</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
+                    <th>Xem chi tiết</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Id</td>
+                        <td>@(order.User?.UserName ?? "Không xác định")</td>
+                        <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>@order.TotalPrice.ToString("N0") đ</td>
+                        <td>@order.Status</td>
+                        <td>
+                            <a asp-action="Invoice" asp-route-id="@order.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

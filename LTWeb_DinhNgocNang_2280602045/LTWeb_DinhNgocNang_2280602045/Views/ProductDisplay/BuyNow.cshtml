@@ -1,0 +1,38 @@
+﻿@model LTWeb_DinhNgocNang_2280602045.Models.Product
+
+@{
+    ViewData["Title"] = "Xác nhận mua hàng";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">@ViewData["Title"]</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">Giá: @Model.Price.ToString("N0") đ</p>
+            <form asp-action="BuyNow" method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="id" value="@Model.Id" />
+                <div class="form-group mb-3">
+                    <label for="quantity">Số lượng:</label>
+                    <input type="number" name="quantity" id="quantity" value="1" min="1" class="form-control" style="width: 100px;" />
+                </div>
+                <p class="card-text">Tổng tiền: <span id="total">@(Model.Price.ToString("N0"))</span> đ</p>
+                <div class="text-end">
+                    <a asp-action="Index" class="btn btn-secondary me-2">Quay lại</a>
+                    <button type="submit" class="btn btn-primary">Xác nhận mua hàng</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById("quantity").addEventListener("input", function () {
+        var quantity = parseInt(this.value) || 1;
+        var price = @Model.Price;
+        var total = quantity * price;
+        document.getElementById("total").innerText = total.toLocaleString("vi-VN");
+    });
+</script>

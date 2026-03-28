@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Tìm sản phẩm theo ID";
+}
+
+<h2>Tìm sản phẩm theo ID</h2>
+
+<div class="mb-3">
+    <label for="productId" class="form-label">Nhập ID sản phẩm:</label>
+    <input type="number" id="productId" class="form-control" />
+    <button class="btn btn-primary mt-2" onclick="getProduct()">Tìm</button>
+</div>
+
+<div id="result" class="mt-4"></div>
+
+@section Scripts {
+    <script>
+        async function getProduct() {
+            const id = document.getElementById("productId").value;
+            const resultDiv = document.getElementById("result");
+            resultDiv.innerHTML = "⏳ Đang tìm...";
+
+            try {
+                const res = await fetch(`/api/Product/${id}`);
+                if (!res.ok) throw new Error("Không tìm thấy sản phẩm");
+                const product = await res.json();
+
+                resultDiv.innerHTML = `
+                    <strong>Tên:</strong> ${product.name}<br />
+                    <strong>Giá:</strong> ${product.price}<br />
+                    <strong>Mô tả:</strong> ${product.description}<br />
+                    <img src="${product.imageUrl}" alt="Hình ảnh" style="max-width: 200px;" />
+                `;
+            } catch (err) {
+                resultDiv.innerHTML = `<span class="text-danger">❌ ${err.message}</span>`;
+            }
+        }
+    </script>
+}

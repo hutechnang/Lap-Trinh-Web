@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Sửa sản phẩm";
+    var id = Context.Request.RouteValues["id"];
+}
+
+<h2>Sửa sản phẩm</h2>
+
+<form id="editForm">
+    <input type="hidden" name="id" />
+    <input class="form-control mb-2" name="name" placeholder="Tên sản phẩm" required />
+    <input class="form-control mb-2" name="price" placeholder="Giá" type="number" required />
+    <textarea class="form-control mb-2" name="description" placeholder="Mô tả"></textarea>
+    <input class="form-control mb-2" name="imageUrl" placeholder="URL hình ảnh" />
+    <input class="form-control mb-2" name="categoryId" type="number" placeholder="ID danh mục" />
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+    <a href="https://localhost:7181/Admin/ProductApi" class="btn btn-secondary ms-2">Quay lại</a>
+</form>
+
+@section Scripts {
+    <script>
+        const id = '@id';
+        fetch(`https://localhost:7181/api/products/${id}`)
+            .then(res => res.json())
+            .then(data => {
+                for (const key in data) {
+                    const input = document.querySelector(`[name="${key}"]`);
+                    if (input) input.value = data[key];
+                }
+            });
+
+        document.getElementById('editForm').addEventListener('submit', async e => {
+            e.preventDefault();
+            const form = new FormData(e.target);
+            const data = Object.fromEntries(form.entries());
+
+            await fetch(`https://localhost:7181/api/products/${id}`, {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            });
+
+            window.location.href = '/Admin/ProductApi/Index';
+        });
+    </script>
+}

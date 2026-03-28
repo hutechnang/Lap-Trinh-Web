@@ -1,0 +1,26 @@
+﻿@model IEnumerable<LTWeb_DinhNgocNang_2280602045.Models.Category>
+
+<h1>Danh sách danh mục</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>Không rõ danh mục</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên danh mục</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

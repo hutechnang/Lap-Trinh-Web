@@ -1,0 +1,138 @@
+﻿@model IEnumerable<LTWeb_DinhNgocNang_2280602045.Models.Product>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var searchString = ViewData["searchString"] as string;
+    var sortOrder = ViewData["sortOrder"] as string;
+}
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">@ViewData["Title"]</h2>
+
+    <!-- Hiển thị thông báo thành công nếu có -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <!-- Nút thêm sản phẩm và tạo Employee -->
+    <div class="text-end mb-4">
+        @if (User.IsInRole(SD.Role_Admin)) // Chỉ Admin được thêm sản phẩm và tạo Employee
+        {
+            <a asp-action="Add" class="btn btn-success shadow-sm">
+                <i class="fas fa-plus-circle"></i> Thêm sản phẩm mới
+            </a>
+            <a asp-area="Admin" asp-controller="Employee" asp-action="CreateEmployee" class="btn btn-primary shadow-sm">
+                <i class="fas fa-user-plus"></i> Tạo Employee
+            </a>
+
+        }
+    </div>
+
+    <!-- Tìm kiếm -->
+    <form method="get" class="row row-cols-lg-auto g-3 align-items-center mb-4 bg-light p-3 rounded shadow-sm">
+        <div class="col-auto">
+            <label for="searchString" class="col-form-label fw-semibold">Tìm sản phẩm:</label>
+        </div>
+        <div class="col-auto">
+            <input type="text" id="searchString" name="searchString" class="form-control" value="@searchString" placeholder="Tên sản phẩm..." />
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i> Tìm</button>
+        </div>
+    </form>
+
+    <!-- Sắp xếp -->
+    <div class="mb-4 text-center">
+        <span class="fw-semibold me-2">Sắp xếp:</span>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="name_asc" class="btn btn-outline-primary btn-sm">Tên A-Z</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="name_desc" class="btn btn-outline-primary btn-sm">Tên Z-A</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="price_asc" class="btn btn-outline-success btn-sm">Giá Tăng</a>
+        <a asp-action="Index" asp-route-searchString="@searchString" asp-route-sortOrder="price_desc" class="btn btn-outline-success btn-sm">Giá Giảm</a>
+    </div>
+
+    <style>
+        .product-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            transition: box-shadow 0.3s;
+        }
+
+            .product-card:hover {
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            }
+
+        .product-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .product-info {
+            padding: 10px;
+        }
+
+        .product-name {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #333;
+            height: 45px;
+            overflow: hidden;
+        }
+
+        .product-price {
+            color: #e53935;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .card-actions a {
+            margin-right: 6px;
+        }
+    </style>
+
+    <!-- Danh sách sản phẩm dạng thẻ -->
+    <div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
+        @foreach (var product in Model)
+        {
+            <div class="col">
+                <div class="product-card h-100">
+                    <a asp-action="Display" asp-route-id="@product.Id">
+                        <img src="@product.ImageUrl" alt="Ảnh sản phẩm" class="product-img" />
+                    </a>
+                    <div class="product-info">
+                        <a asp-action="Display" asp-route-id="@product.Id" class="text-decoration-none text-dark">
+                            <div class="product-name">@product.Name</div>
+                        </a>
+                        <div class="product-price">@product.Price.ToString("N0") đ</div>
+                        @{
+                            var categoryName = product.Category?.Name ?? "Không rõ danh mục";
+                        }
+                        <small class="text-muted">@categoryName</small>
+                        <div class="mt-2 card-actions">
+                            <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-sm btn-outline-info">
+                                <i class="fas fa-eye"></i> Xem
+                            </a>
+                            <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-sm btn-outline-warning">
+                                <i class="fas fa-edit"></i> Sửa
+                            </a>
+                            @if (User.IsInRole(SD.Role_Admin)) // Chỉ Admin được xóa
+                            {
+                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-outline-danger">
+                                    <i class="fas fa-trash"></i> Xóa
+                                </a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
